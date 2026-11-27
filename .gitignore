@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (too large for Git, downloaded from Geoportal - see README)
+data/
